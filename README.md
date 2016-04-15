@@ -4,13 +4,13 @@
 --
 #### 开发过程中产生的子项目
 
-图片自动滚动轮播的控件：https://github.com/wjie2014/AutoScrollBanner
+* 图片自动滚动轮播的控件：https://github.com/wjie2014/AutoScrollBanner
 
-底部菜单栏：https://github.com/wjie2014/BottomNavigation
+* 底部菜单栏：https://github.com/wjie2014/BottomNavigation
 
-侧滑菜单栏：https://github.com/wjie2014/Slide_Navigation
+* 侧滑菜单栏：https://github.com/wjie2014/Slide_Navigation
 
-双联动ListView--类似外卖点餐：https://github.com/wjie2014/DoubleListViewLinkage
+* 双联动ListView--类似外卖点餐：https://github.com/wjie2014/DoubleListViewLinkage
 
 --
 
