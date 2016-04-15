@@ -2,7 +2,7 @@
 > 羊皮书APP开发过程及android开发知识点记录在我的博客上.
 
 --
-#### 项目中提取的子项目
+#### 开发过程中产生的子项目
 
 图片自动滚动轮播的控件：https://github.com/wjie2014/AutoScrollBanner
 
